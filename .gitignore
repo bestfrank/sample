@@ -1,5 +1,14 @@
 /vendor
 /node_modules
+npm-debug.log
 Homestead.yaml
 Homestead.json
+
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
 .env
+
+.idea
