@@ -6,6 +6,8 @@ Homestead.json
 
 public/storage
 public/hot
+public/phpinfo.php
+public/test.php
 storage/*.key
 .env.*.php
 .env.php
